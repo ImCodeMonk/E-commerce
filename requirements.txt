@@ -1,0 +1,11 @@
+crewai
+chromadb
+sentence-transformers>=3.0
+langchain-core
+fastapi
+uvicorn[standard]>=0.30
+httpx>=0.27
+autogen-agentchat
+pydantic>=2.7
+pytest>=8.0
+websockets>=12.0
